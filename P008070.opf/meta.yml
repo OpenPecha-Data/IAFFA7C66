@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W22071
   title: རི་ནུབ།
-  volume: ''
+  volume:
+    5fe67a4942514ca697a0cbce53128887:
+      image_group_id: I1KG18061
+      title: Volume 1 of ri nub/
+      volume_number: 1
+      total_pages: 186
   author: ''
+ebook_metadata:
+  title: རི་ནུབ།
+  author: ''
+  sku: P008070
+  cover: cover.jpg
+  layers:
+  - pagination
