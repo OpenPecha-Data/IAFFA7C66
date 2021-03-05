@@ -1,15 +1,16 @@
-id: opecha:P008070
+id: P008070
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22071
   title: རི་ནུབ།
-  volume:
+  author: ''
+  volumes:
     5fe67a4942514ca697a0cbce53128887:
       image_group_id: I1KG18061
       title: Volume 1 of ri nub/
       volume_number: 1
       total_pages: 186
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རི་ནུབ།
   author: ''
