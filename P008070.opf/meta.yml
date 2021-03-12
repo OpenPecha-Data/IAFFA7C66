@@ -5,11 +5,12 @@ source_metadata:
   title: རི་ནུབ།
   author: ''
   volumes:
-    8fef4ee2371b4fffbcbefe8665c8624b:
+    5fe67a4942514ca697a0cbce53128887:
       image_group_id: I1KG18061
-      title: ''
+      title: Volume 1 of ri nub/
       volume_number: 1
       total_pages: 186
+      base_file: v001.txt
 ebook_metadata:
   title: རི་ནུབ།
   author: ''
